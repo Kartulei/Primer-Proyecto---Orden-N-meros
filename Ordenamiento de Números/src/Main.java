@@ -1,9 +1,11 @@
 
 public class Main {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) 
+	{
 		
-		System.out.println("Hola Mundo...");
+		Ordenamiento ord = new Ordenamiento();
+		ord.initApp();
 
 	}
 
